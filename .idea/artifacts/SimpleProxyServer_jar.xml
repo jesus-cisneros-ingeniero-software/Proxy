@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SimpleProxyServer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SimpleProxyServer_jar</output-path>
+    <root id="archive" name="SimpleProxyServer.jar">
+      <element id="module-output" name="SimpleProxyServer" />
+    </root>
+  </artifact>
+</component>
